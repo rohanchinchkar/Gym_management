@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\gym.exe
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\gym.dll
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\gym.deps.json
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\gym.runtimeconfig.json
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\gym.pdb
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\System.Data.SqlClient.dll
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\runtimes\win-arm64\native\sni.dll
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\sni.dll
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\sni.dll
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\hp\Documents\C#\gym\gym\bin\Release\net6.0-windows\publish\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
